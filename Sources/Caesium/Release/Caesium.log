@@ -1,0 +1,115 @@
+﻿  Caesium.cpp
+K:\Caesium\Caesium\Caesium.cpp(200,7): warning C4552: ”<“: 未使用表达式结果
+K:\Caesium\Caesium\Caesium.cpp(210,10): warning C4552: ”<“: 未使用表达式结果
+K:\Caesium\Caesium\Caesium.cpp(215,10): warning C4552: ”<“: 未使用表达式结果
+K:\Caesium\Caesium\Caesium.cpp(420,23): warning C4305: “初始化”: 从“double”到“float”截断
+K:\Caesium\Caesium\Caesium.cpp(431,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(440,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(773,62): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(775,62): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(946,11): warning C4101: “rgbquadCopy”: 未引用的局部变量
+K:\Caesium\Caesium\Caesium.cpp(968,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(982,44): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(983,46): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(984,45): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(996,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1060,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1061,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1105,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1106,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1137,114): warning C4244: “+=”: 从“double”转换到“COLORREF”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1186,128): warning C4309: “初始化”: 截断常量值
+K:\Caesium\Caesium\Caesium.cpp(1186,151): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1198,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1198,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1199,75): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1199,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1332,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1335,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+K:\Caesium\Caesium\Caesium.cpp(1382,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1382,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1383,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1404,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1404,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1405,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1426,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1426,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1427,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1448,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1448,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1449,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1470,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1470,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1471,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1492,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1492,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1493,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1514,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1514,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1515,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1519,56): warning C4293: “>>”: Shift 计数为负或过大，其行为未定义
+K:\Caesium\Caesium\Caesium.cpp(1536,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1536,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1537,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1558,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1558,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1559,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1580,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1580,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1581,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1602,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1602,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1603,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1625,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1625,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1626,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1647,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1647,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1648,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1669,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1669,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1670,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1691,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1691,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1692,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1713,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1713,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1714,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1735,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1735,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1736,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1757,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1757,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1758,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1762,100): warning C4293: “>>”: Shift 计数为负或过大，其行为未定义
+K:\Caesium\Caesium\Caesium.cpp(1762,132): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+K:\Caesium\Caesium\Caesium.cpp(1779,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1779,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1780,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1801,50): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1801,66): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1802,40): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+K:\Caesium\Caesium\Caesium.cpp(1956,25): warning C4129: “I：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(1956,25): warning C4129: “T：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(1956,25): warning C4129: “P：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(1962,26): warning C4129: “I：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(1962,26): warning C4129: “O：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(1976,26): warning C4129: “T：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(1976,26): warning C4129: “P：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(1976,26): warning C4129: “I：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(1982,27): warning C4129: “O：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(2010,30): warning C4129: “H：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(2010,30): warning C4129: “S：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(2023,30): warning C4129: “m：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(2023,30): warning C4129: “(：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(2032,31): warning C4129: “V：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(2032,31): warning C4129: “C：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(2032,31): warning C4129: “T：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(2032,31): warning C4129: “h：: 不可识别的字符转义序列
+K:\Caesium\Caesium\Caesium.cpp(2032,31): warning C4129: “l：: 不可识别的字符转义序列
+  正在生成代码
+  1 of 77 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Caesium.vcxproj -> K:\Caesium\Release\Caesium.exe
