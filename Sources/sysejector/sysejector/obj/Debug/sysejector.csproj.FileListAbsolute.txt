@@ -1,0 +1,9 @@
+D:\Solutions\sysejector\sysejector\bin\Debug\sysejector.exe.config
+D:\Solutions\sysejector\sysejector\bin\Debug\sysejector.exe
+D:\Solutions\sysejector\sysejector\bin\Debug\sysejector.pdb
+D:\Solutions\sysejector\sysejector\obj\Debug\sysejector.csproj.AssemblyReference.cache
+D:\Solutions\sysejector\sysejector\obj\Debug\sysejector.Properties.Resources.resources
+D:\Solutions\sysejector\sysejector\obj\Debug\sysejector.csproj.GenerateResource.cache
+D:\Solutions\sysejector\sysejector\obj\Debug\sysejector.csproj.CoreCompileInputs.cache
+D:\Solutions\sysejector\sysejector\obj\Debug\sysejector.exe
+D:\Solutions\sysejector\sysejector\obj\Debug\sysejector.pdb
